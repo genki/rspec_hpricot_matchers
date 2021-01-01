@@ -24,7 +24,6 @@ Gem::Specification.new do |s|
      "spec/rspec_hpricot_matchers/have_tag_spec.rb",
      "spec/spec_helper.rb"
   ]
-  s.has_rdoc = true
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.1}
